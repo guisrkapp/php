@@ -1,5 +1,5 @@
 <?php
 
-	echo "Olá seu puto!"
+	echo "Olá seu puto!";
 	
 ?>
